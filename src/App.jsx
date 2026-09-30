@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import BentoGrid from './components/BentoGrid'
 import CodeShowcase from "./components/CodeShowcase";
 import SystemMetrics from "./components/SystemMetrics"
+import TechSpecGrid from './components/TechSpecGrid';
 function App() {
  
 
@@ -15,6 +16,7 @@ function App() {
         <BentoGrid />
         <CodeShowcase />
         <SystemMetrics />
+        <TechSpecGrid />
         </main>
  </div>
   )
